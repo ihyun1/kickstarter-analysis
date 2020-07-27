@@ -2,7 +2,6 @@
 
 ## Overview of Project
 In order to assist our client, who launched a Kickstarter campaign for a theatrical play, we have gathered data on over 4,000 Kickstarter campaigns for a vast range of ventures. Our main interest in the dataset was the campaigns for theatrical plays and the relationship of successful campaigns to their launch date and fundraising goals.
-### Purpose
 
 ## Analysis and Challenges
 
